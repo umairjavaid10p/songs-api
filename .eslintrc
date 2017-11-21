@@ -1,0 +1,23 @@
+{
+    "extends": "airbnb-base",
+    "parser": "babel-eslint",
+    "rules": {
+        "arrow-body-style": 0,
+        "no-plusplus": 0,
+        "indent": 0,
+        "object-curly-spacing": 0,
+        "import/prefer-default-export": 0,
+        "no-param-reassign": [
+            "error",
+            {
+                "props": false
+            }
+        ],
+        "new-cap": [
+            "error",
+            {
+                "properties": false
+            }
+        ]
+    }
+}

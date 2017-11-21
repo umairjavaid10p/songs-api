@@ -58,7 +58,3 @@ And many more small packages.
 - `npm run watch` - starts the server with hot-reloading
 
 **Suggestion:** To turn on debug messages, set `DEBUG` environment variable to `kickstarter:*`
-
-### License
-
-[MIT](https://raw.githubusercontent.com/umayr/koa2-kickstarter/master/LICENSE?token=AC7fzOqmYJf5mPTsJ9sWZ6QPNSfuBhLlks5XROMFwA%3D%3D) - Umayr Shahid <<umayrr@hotmail.co.uk>>
